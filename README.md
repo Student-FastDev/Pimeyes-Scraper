@@ -12,7 +12,6 @@ Pimeyes-Scraper is a Python-based tool utilizing Selenium for automated web scra
 - [Usage](#usage)
   - [Running the Script](#running-the-script)
   - [Configuration](#configuration)
-- [Proxy Configuration](#proxy-configuration)
 
 ## Introduction
 
@@ -38,7 +37,7 @@ Ensure the following are installed:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/YourUsername/Pimeyes-Scraper
+   git clone https://github.com/Student-FastDev/Pimeyes-Scraper/
    ```
 
 2. Navigate to the directory:
@@ -60,21 +59,18 @@ Ensure the following are installed:
 Execute the script from the command line:
 
 ```bash
-python main.py
+python pimeyes.py [name-of-image-in-the-same-directory]
 ```
 
 ### Configuration
 
-On the first run, edit `settings.json`:
+After the first run, edit `proxy.txt`:
 
 ```json
 {
-    "proxy_file": "proxy.txt",
-    "use_proxy": true,
-    "headless_mode": true
+    IP:PORT:USER:PASS
 }
 ```
 
-## Proxy Configuration
-
-Manage your proxies through `proxy.txt`. The script randomly selects a proxy from this file for each session, ensuring varied IP addresses for different scraping tasks.
+The script randomly selects a proxy from this file for each session, ensuring varied IP addresses for different scraping tasks.
+After the finish of the program, the image file is deleted.
