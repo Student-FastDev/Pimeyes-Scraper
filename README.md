@@ -12,6 +12,7 @@ Pimeyes-Scraper is a Python-based tool utilizing Selenium for automated web scra
 - [Usage](#usage)
   - [Running the Script](#running-the-script)
   - [Configuration](#configuration)
+- [Troubleshooting](#troubleshooting)
 
 ## Introduction
 
@@ -72,3 +73,10 @@ After the first run, edit `proxy.txt`:
 
 The script randomly selects a proxy from this file for each session, ensuring varied IP addresses for different scraping tasks.
 After the finish of the program, the image file is deleted.
+
+## Troubleshooting
+- Ensure all dependencies are installed.
+- Check if Google Chrome is updated to the latest version.
+- Verify the format of the proxies if used.
+
+For any other issues, refer to the error messages provided by the script for guidance.
