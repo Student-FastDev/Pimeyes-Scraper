@@ -113,7 +113,7 @@ if __name__ == "__main__":
 
         # Initialize driver
         driver = initialize_driver(proxy)
-        wait = WebDriverWait(driver, 10)
+        wait = WebDriverWait(driver, 30)
         wait_Error = WebDriverWait(driver, 1)
 
         # Open the website
