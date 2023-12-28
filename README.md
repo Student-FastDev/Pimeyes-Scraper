@@ -1,6 +1,6 @@
 # Pimeyes-Scraper
 
-Pimeyes-Scraper is a Python-based tool utilizing Selenium for automated web scraping, specifically designed to interact with the Pimeyes website. This script includes proxy management features for enhanced privacy and bypassing geo-restrictions.
+Pimeyes-Scraper is a Python-based tool utilizing Selenium for automated web scraping, specifically designed to interact with the Pimeyes website. This script includes proxy support.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -18,7 +18,7 @@ Pimeyes-Scraper is a Python-based tool utilizing Selenium for automated web scra
 
 ### Functionality
 
-Pimeyes-Scraper automates tasks on the Pimeyes website using Selenium. The script's key feature is its ability to manage and utilize proxies for anonymous web scraping and circumventing network limitations.
+Pimeyes-Scraper automates tasks on the Pimeyes website using Selenium. The script's key feature is its ability to easily grab the results from Pimeyes website.
 
 ### Safety and Privacy
 
