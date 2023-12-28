@@ -58,9 +58,9 @@ Ensure the following are installed:
 
 Execute the script from the command line:
 
-    ```
-    python pimeyes.py [name-of-image-in-the-same-directory]
-    ```
+   ```
+   python pimeyes.py [name of the image file in the same directory]
+   ```
 
 ### Configuration
 
