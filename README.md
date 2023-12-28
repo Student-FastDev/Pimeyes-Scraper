@@ -58,17 +58,17 @@ Ensure the following are installed:
 
 Execute the script from the command line:
 
-  ```bash
-  python pimeyes.py [name-of-image-in-the-same-directory]
-  ```
+    ```bash
+    python pimeyes.py [name-of-image-in-the-same-directory]
+    ```
 
 ### Configuration
 
 After the first run, edit `proxy.txt`:
 
-  ```
-  IP:PORT:USER:PASS
-  ```
+    ```
+    IP:PORT:USER:PASS
+    ```
 
 The script randomly selects a proxy from this file for each session, ensuring varied IP addresses for different scraping tasks.
 After the finish of the program, the image file is deleted.
