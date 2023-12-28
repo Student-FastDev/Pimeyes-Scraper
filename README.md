@@ -66,10 +66,8 @@ python pimeyes.py [name-of-image-in-the-same-directory]
 
 After the first run, edit `proxy.txt`:
 
-```json
-{
+```
     IP:PORT:USER:PASS
-}
 ```
 
 The script randomly selects a proxy from this file for each session, ensuring varied IP addresses for different scraping tasks.
