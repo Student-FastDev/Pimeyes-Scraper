@@ -113,5 +113,5 @@ python pimeyes.py sample_image.jpg
 ---
 
 <div align="center">  
-    <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/60910dd62ebaea0001d6f783/0x0.png" alt="Pimeyes Logo" width="50px">
+    <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/60910dd62ebaea0001d6f783/0x0.png" alt="Pimeyes Logo" width="70px">
 </div>
