@@ -4,7 +4,7 @@ Tool specifically designed to interact with the Pimeyes website.
 
 ## Prerequisites
 
-To run the Pimeyes-Scraper script, ensure you have the following installed:
+To run the program, ensure you have the following installed:
 
 - **Python:** Version 3.6 or higher.
 - **Google Chrome:** Latest version recommended for compatibility with ChromeDriver.
