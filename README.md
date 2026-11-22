@@ -62,5 +62,5 @@ To run the program, ensure you have the following installed:
 ---
 
 <div align="center">  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Pimeyes-logo.png?_=20230210185416" alt="Pimeyes Logo" width="80px">
+    <img src="https://pimeyes.com/android-chrome-512x512.png" alt="Pimeyes Logo" width="80px">
 </div>
